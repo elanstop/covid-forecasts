@@ -15,6 +15,6 @@ Let N be the number of deaths recorded today, D the true death rate, L the avera
 ![](death_forecasts_updated.png)
 
 # Caveats
-These forecasts are imprecise and intended for order-of-magnitude estimates only. Recent quarantines mean that growth over the last 17 days is in fact sub-exponential. Assuming an exponential and choosing R to hit the cases curve today makes the end of my forecast accurate, but underestimates the forecasted deaths on more recent days. I hope to soon update the sophistication of my growth model, see https://bit.ly/39rTE43
+These forecasts are imprecise and intended for order-of-magnitude estimates only. Recent quarantines mean that growth over the last 17 days is in fact sub-exponential. Assuming an exponential and choosing R to hit the cases curve today makes the end of my forecast accurate, but underestimates the forecasted deaths on sooner days. I hope to soon update the sophistication of my growth model, see https://bit.ly/39rTE43
 
 ![](exponential_fits.png)
