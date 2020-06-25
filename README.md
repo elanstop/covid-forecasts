@@ -24,3 +24,6 @@ Let N be the number of deaths recorded today, D the true death rate, L the avera
 
 -I am assuming that the factor by which confirmed cases increase in a given period is the same factor by which true cases increase. In reality this is confounded somewhat by changes in testing rates.
 
+# Retrospect
+These forecasts came out (thankfully) much too high. The reason is likely that my assumption that "the factor by which confirmed cases increase in a given period is the same factor by which true cases increase" is a bad one, because in fact there is a significant lag between infection and a positive test result, which I hadn't considered (this issue is explored [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/)). It is of some comfort that other scientists made the same [mistake](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/ckeditor/2020/04/06/t-003-luu-jost.pdf). Nevertheless, as of 06/24 the virus has claimed the lives of 124,000+ people in the US, and while I wish I could have made more useful predictions, I do not regret advocating that the virus be taken more seriously than it was at the time I started this project. 
+
